@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://thetopbloggers.com](https://thetopbloggers.com)
 
-- 💬 Ask me about **php**
+- 💬 Ask me about **php | Laravel**
 
 - 📫 How to reach me **ahmadmujtabap70@gmail.com**
 
