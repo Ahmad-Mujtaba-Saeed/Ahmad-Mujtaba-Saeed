@@ -1,13 +1,13 @@
 ![logo](https://github.com/Ahmad-Mujtaba-Saeed/Ahmad-Mujtaba-Saeed/blob/main/codeispoetrywp.jpg)
 
 <h1 align="center">Hi 👋, I'm Ahmad Mujtaba Saeed</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-mujtaba-saeed&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-mujtaba-saeed" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently doing job as **Laravel Developer**
 
-- 📝 I regularly write articles on [https://thetopbloggers.com](https://thetopbloggers.com)
+- 📝 I latest client project [https://thetopbloggers.com](https://roamnfly.com)
 
 - 💬 Ask me about **php | Laravel**
 
