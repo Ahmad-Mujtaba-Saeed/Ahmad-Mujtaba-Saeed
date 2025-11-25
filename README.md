@@ -5,11 +5,9 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-mujtaba-saeed&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-mujtaba-saeed" /> </p>
 
-- 🌱 I’m currently doing job as **Laravel Developer**
+- 🌱 I’m currently doing job as **Full Stack Developer**
 
-- 📝 I latest client project [https://thetopbloggers.com](https://roamnfly.com)
-
-- 💬 Ask me about **php | Laravel**
+- 💬 Ask me about **php | Laravel | React | Flutter | Dart**
 
 - 📫 How to reach me **ahmadmujtabap70@gmail.com**
 
